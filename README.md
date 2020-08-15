@@ -4,8 +4,8 @@
 ## Work Experience
 ### Backend Engineer at SELLERLINX
 Jul 2019 - Aug 2020, Taipei City, Taiwan.
-- We build Serverless Application on Amazon Web Service (aws). 
-- My main job is to build RESTful APIs using Lambda, API Gateway, DynamoDB, S3, RDS(MySQL), SQS, etc. Besides, I also have experience in using ECR and ECS to create microservice.
+- We build Serverless Application on Amazon Web Service (AWS). 
+- My main job was to build RESTful APIs using Lambda, API Gateway, DynamoDB, S3, RDS(MySQL), SQS, etc. Besides, I also had experience in using ECR and ECS to create microservice.
 <!--
 **plusoneee/plusoneee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
