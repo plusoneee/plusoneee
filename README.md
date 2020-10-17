@@ -1,6 +1,3 @@
-### Hi there 👋
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-
 ## Work Experience
 ### Backend Engineer at SELLERLINX
 Jul 2019 - Aug 2020, Taipei City, Taiwan.
