@@ -2,7 +2,7 @@
 ### Backend Engineer at SELLERLINX
 Jul 2019 - Aug 2020, Taipei City, Taiwan.
 - We build **Serverless Application** on **Amazon Web Service (AWS)**.
-- RESTful APIs with Lambda, `API Gateway`, `DynamoDB`, `S3`, `RDS (MySQL)`, `SQS`, etc.
+- RESTful APIs with `Lambda`, `API Gateway`, `DynamoDB`, `S3`, `RDS (MySQL)`, `SQS`, etc.
 - Microservices with `ECR` and `ECS`.
 
 <!--
